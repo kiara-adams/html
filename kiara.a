@@ -1,0 +1,62 @@
+<!-- specifies the version of html -->
+<!DOCTYPE html> -->
+<!-- specifies the languege used  -->
+<html lang="en">
+    <!-- contains info about the html, mostly metadata -->
+<head>
+    <!-- specifies the webpages characters encode -->
+    <meta charset="UTF-8">
+    <!-- sets the width of thee html page to the with of the device used -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- name at the top of webpage/tab  -->
+    <title>Document</title>
+    <!-- allows the link of css to this html -->
+    <link rel="stylesheet" href="">
+    <!-- links the javasript to html -->
+    <script> </script>
+</head>
+<!-- displays content of webpage -->
+<body>
+    <style></style>
+    <!-- all the styling goes in here -->
+    <header>
+        <nav>
+
+    </nav>
+
+    </header>
+    <main>
+
+    </main>
+
+<h1>I love HTML </h1>
+<h2>i also love coding</h2>
+
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque velit odit eligendi ipsa error culpa dolor, fuga neque nam inventore accusantium blanditiis, assumenda totam? Quas dolore excepturi  sint molestiae!</p>
+<p>kiara </p>
+
+  <br>
+  <hr>
+  <form action="">
+      <label for ="">Name:</label><input type="text" required>
+      <button type ="submit" >submit</button>
+
+
+    </form>
+<footer>
+
+</footer>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+<a href="">click me</a>
+</body>
+</html>
